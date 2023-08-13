@@ -1,0 +1,8 @@
+# Links to git backed config files
+mainsail.cfg
+timelapse.cfg
+
+# Backup files
+*.bkp
+printer-[0-9]*_*.cfg
+
